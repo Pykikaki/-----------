@@ -1,0 +1,73 @@
+body {
+    background: url(https://vesti.kz/userdata/news/2021/news_299284/crop_b/photo_165207.jpg) no-repeat;
+    background-size: cover;
+}
+.why{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+.because1{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 110px;
+    left: 600px;
+}
+
+.because2{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 130px;
+    left: 600px;
+}
+
+.because3{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 150px;
+    left: 600px;
+}
+
+.because4{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 170px;
+    left: 600px;
+}
+
+.because5{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 190px;
+    left: 600px;
+}
+
+.because6{
+    color: rgb(250, 193, 107);
+    position: absolute;
+    top: 210px;
+    left: 600px;
+}
+
+.because7{
+    color: rgb(0, 225, 255);
+    position: absolute;
+    top: 230px;
+    left: 600px;
+}
+.aud{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+.pivo{
+    position: absolute;
+    top: 650px;
+    left: 600px;
+}
+.nat{
+    position: absolute;
+    top: 380px;
+    left: 500px;
+}
